@@ -1,0 +1,35 @@
+.header-image {
+    width: 100%;
+    margin-top: -2em;
+    margin-bottom: 2em;
+    background-color: purple;
+  }
+  
+  .about-profile-pic {
+     margin-top: -1rem;
+    float: left;
+    width: 16rem;
+    height: 18.5rem;
+    margin: 0 1em 1em 0;
+  }
+  .foo{
+    border: black solid ;
+    width: 100%;
+    margin-top: 1rem;
+  }
+  .about{
+    font-style: italic;
+    color: #ffffff;
+    list-style:square;
+  }
+   .about-profile-file {
+    margin-top: -1rem;
+   float: left;
+   width: 15rem;
+   height: 14.5rem;
+   margin: 0 1em 1em 0;
+ }
+ .h2{
+   object-position: center;
+   padding: -1rem;
+ }

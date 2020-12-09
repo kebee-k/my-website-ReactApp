@@ -1,0 +1,25 @@
+.background-image{
+    background-image: url(./image/ATM.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: -0.5rem;
+    margin-left: 2rem;
+    margin-right: 4rem;
+    padding-bottom: 0%;
+    height: 400px;
+    width: 100%;
+  }
+  .font-image{
+      text-align: center;
+      color: red;
+      font: 1em sans-serif;
+      font-size: larger;
+      margin-top: 0;
+  }
+  .font-image p{
+         border: royalblue;
+  }
+  .box{
+      border-radius: 4rem;
+  }
+  
