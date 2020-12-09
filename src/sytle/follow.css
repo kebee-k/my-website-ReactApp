@@ -1,0 +1,55 @@
+.social-container {
+    background: blue;
+    padding: 25px 50px;
+    position: relative;
+    text-align: center;
+  }
+
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+ 
+  }
+  a.social:hover {
+    transform: translateY(-3px);
+    color: white;
+  }
+  .follow a{
+    font-family: sans-serif;
+    color: #ffffff;
+   
+  }
+  .follow a:hover{
+    transform: translateY(-3px);
+    color: #0c0c0c;
+  }
+  a.youtube {
+    color: #eb3223;
+  }
+  
+  a.facebook {
+    color: black;
+  }
+  
+  a.twitter {
+    color: #49a1eb;
+  }
+  
+  a.instagram {
+    color: black;
+  }
+  a.telegram{
+  color:rgb(11, 12, 12);
+  }
+  a.skype{
+    color: rgb(25, 240, 17);
+  }
+ .sideItem{
+   list-style-type: square;
+}
+ ul{
+   list-style:none;
+   color: whitesmoke;
+   font: 1.5rem sans-serif;
+   flex-wrap: wrap;
+  }
