@@ -27,7 +27,8 @@ export default class CustomNavbar extends Component {
             <Nav.Link eventKey={2} href="/service">
              Sevice
             </Nav.Link> 
-            <Nav.Link eventKey={2} href="#/mapSite">
+            <Nav.Link eventKey={2} href="
+            /mapSite">
               MapSite
             </Nav.Link>
           </Nav>
