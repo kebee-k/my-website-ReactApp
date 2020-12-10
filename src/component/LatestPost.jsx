@@ -20,6 +20,11 @@ const LatestPost = () => {
   return (
     <Fragment>
       <h1>latest News </h1>
+      <di>
+        <li>...NCR..</li>
+        <li>...Software..</li>
+        <li>...Developer..</li>
+      </di>
       {appStates.map((appState) => (
         <p key={appState.description}>{appState.description}</p>
       ))}
