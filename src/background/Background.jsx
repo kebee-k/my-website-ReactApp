@@ -33,6 +33,7 @@ export default class Background extends Component {
                   <li>CISCO</li>
                   <li>SERVER </li>
                   <li>...NCR..</li>
+                  <li>...Diabold..</li>
                 </ul>
                   </Col>
                 </Row>
