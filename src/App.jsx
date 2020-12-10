@@ -11,7 +11,6 @@ import LatestPost from "./component/LatestPost";
 import Product from "./component/Product";
 import Follow from "./component/Follow";
 import Background from "./background/Background"
-import  MapSite  from "./component/MapSite"
 class App extends Component {
   render() {
     return (
@@ -25,7 +24,6 @@ class App extends Component {
           <Route path="/contact" component={Contact} />
           <Route path="/service" component={Service} />
           <Route path="/product" component={Product} />
-          <Route path="/mapSite" component={MapSite} />
           <Footer />
           <Follow />
         </div>
