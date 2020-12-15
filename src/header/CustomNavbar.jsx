@@ -8,10 +8,11 @@ export default class CustomNavbar extends Component {
        < Navbar default collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Navbar.Brand href="#home">
           <Image 
-            src="asset/logo1.png"  
+            src="asset/logo.jpg"  
             roundedCircle
             className="logo"/>
-          Software Engineering</Navbar.Brand>
+          Software Engineering
+          </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">

@@ -8,7 +8,7 @@ class Home extends Component {
     return (
       <>
         <Jumbotron className="bind">
-          <h4> Well Come To Moti Engineering </h4>
+          <h4> Well Come To Software clicker </h4>
           <a href="#endregion">Software Engineering Plc</a>
           <p>
             Moti Engineering PLC is one of the leading Information and

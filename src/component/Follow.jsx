@@ -59,7 +59,7 @@ export default class follow extends Component {
             Copyright ©{new Date().getFullYear()}
           </a>
           {"      "}
-          <a href="#jhh">Moti Engineering Plc </a>
+          <a href="#jhh">Software clicker </a>
           {"      "}
           <a href="#jhh"> All Rights Reserved </a>
           {"      "}
