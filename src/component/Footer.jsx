@@ -13,11 +13,8 @@ export default class Footer extends Component {
               <Col md="4">
                 <ul>
                 <li><h4>Contact us</h4></li>
-                <li>Addis Ababa</li>
-                 <li>Ethiopia</li>
-                 <li>PO BOX xxx</li>
-                 <li>Phone:+2519xxxxx</li>
-                  <li> Email:contact@gmail.com</li>
+                  <li>Phone:+251938318340</li>
+                  <li> Email:kebkit3@gmail.com</li>
                   <li></li>
                 </ul>
               </Col>
@@ -27,30 +24,15 @@ export default class Footer extends Component {
                   </li>
                   <li>About</li>
                   <li>service</li>
-                  <li>Market</li>
-                  <li>product </li>
-                  <li>Call log</li>
+                  <li>feature</li>
                 </ul>
               </Col>
               <Col md="3">
                 <ul>
-                  <li> <h3>Our Products</h3>
-                  </li>
-                  <li>About</li>
-                  <li>service</li>
-                  <li>Market</li>
-                  <li>product </li>
-                  <li>Call log</li>
-                </ul>
-              </Col>
-              <Col md="1">
-                <ul>
-                  <li> <h4>Our Blogs</h4>
-                  </li>
-                  <li>About</li>
-                  <li>service</li>
-                  <li>Market</li>
-                  <li>Call log</li>
+                  <li> 
+                   </li>
+                  <li>Blogs</li>
+                  <li>Website</li>
                 </ul>
               </Col>
             </Row>

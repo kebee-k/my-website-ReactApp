@@ -11,11 +11,13 @@ export default class CustomNavbar extends Component {
             src="asset/logo.jpg"  
             roundedCircle
             className="logo"/>
-          Software Engineering
+           Software Clicker
           </Navbar.Brand>
+          
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
+          <Nav.Link  href=" " to={" "}>Contact_us:-{"  "}+251938318340</Nav.Link>
           </Nav>
           <Nav>
             <Nav.Link  href="/" to={"/#home"}>Home</Nav.Link>
