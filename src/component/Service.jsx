@@ -35,17 +35,6 @@ export default class Service extends Component {
                 maintenance, Network Management System development and support,
                 Training and Managerial support.
               </p>
-              <p>
-                Through a long-term commitment to this mission, we will be known
-                as a company that provides quality products and services. Our
-                customers, vendors, and employees see Moti Engineering as
-                offering the best technology transfer and knowledge.
-              </p>
-              <p>
-                News Feed: Since we have support services for the installed base
-                NCR ATMs with our stationed Technical Support Staff, we are also
-                to introduce online ATM Support Service Call Log System soon.
-              </p>
             </Col>
             <Col xs={12} sm={4} className="sidebar-section">
               <Image src="asset/service.jpg" />
@@ -90,12 +79,6 @@ export default class Service extends Component {
                     (b) identify problems promptly as they arise during
                     implementation and recommend to the borrower ways to resolve
                     them;<br></br>
-                    (c) recommend changes in project concept or design, as
-                    appropriate, as the project evolves or circumstances change;
-                    (d) prepare the Bank’s Implementation Completion Report to
-                    account for the use of Bank resources, and to draw lessons
-                    to improve the design of future projects, sector and country
-                    strategies, and policies
                   </Card.Text>
                 </Card.Body>
               </Card>
@@ -114,55 +97,14 @@ export default class Service extends Component {
                     . Design specifications - Mechanical and Electrical<br></br>
                     . Requirements of the validation process Safety department
                     <br></br>. policy statements Tender documentation ICT
-                    Network standards<br></br>. Estate Facilities requirements
-                    Building Engineering services<br></br>
-                    particularly requirements .Review project and delivery to
-                    date. .Identification of areas where delivery worked well
+                    Network standards<br></br>
+                    .Review project and delivery to
+                    date. <br></br>
+                    .Identification of areas where delivery worked well
                     and where it did not.
                   </Card.Text>
                 </Card.Body>
                 <Card.Footer> testing & commissioning</Card.Footer>
-              </Card>
-              <br />
-            </Col>
-          </Row>
-          <Row>
-            <Col>
-              <Card bg="warning" style={{ width: "18rem" }}>
-                <Card.Header>Consultancy</Card.Header>
-                <Card.Body>
-                  <Card.Title> our Consultancy</Card.Title>
-                  <Card.Text>
-                    Some quick example text to build on the card title and make
-                    up the bulk of the card's content.
-                  </Card.Text>
-                </Card.Body>
-              </Card>
-              <br />
-            </Col>
-            <Col>
-              <Card bg="warning" style={{ width: "18rem" }}>
-                <Card.Header>Training and Managerial support.</Card.Header>
-                <Card.Body>
-                  <Card.Title>Training and Managerial support. </Card.Title>
-                  <Card.Text>
-                    Some quick example text to build on the card title and make
-                    up the bulk of the card's content.
-                  </Card.Text>
-                </Card.Body>
-              </Card>
-              <br />
-            </Col>
-            <Col>
-              <Card bg="warning" style={{ width: "18rem" }}>
-                <Card.Header>Network Management System</Card.Header>
-                <Card.Body>
-                  <Card.Title>Network Management System</Card.Title>
-                  <Card.Text>
-                    Some quick example text to build on the card title and make
-                    up the bulk of the card's content.
-                  </Card.Text>
-                </Card.Body>
               </Card>
               <br />
             </Col>

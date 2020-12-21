@@ -107,43 +107,38 @@ class Home extends Component {
             </Link>
           </Jumbotron>
           <hr className="foo" />
-            <h2>WE OFFER AND PROVIDE </h2>
+            <h2>Area we more focus In </h2>
             <Row md="12">
               <Col md="6">
-                <Image src="asset/amt2.png" className="about-profile-file" />
+                <Image src="asset/frontback.png" className="about-profile-file" />
                 <div className="about">
                   <ListGroup as="ul">
                     <ListGroup.Item as="li" active>
-                      ATM software solution
+                      Website developing
                     </ListGroup.Item>
                     <ListGroup.Item as="li" disabled>
-                      POS software solution
+                      Website hosting
                     </ListGroup.Item>
                     <ListGroup.Item as="li" disabled>
-                      ATM providing
+                      software solutions
                     </ListGroup.Item>
                     <ListGroup.Item as="li" disabled>
-                      ATM hardware solution
-                    </ListGroup.Item>
-                    <ListGroup.Item as="li" disabled>
-                      E-payment
+                      software updating
                     </ListGroup.Item>
                   </ListGroup>
                 </div>
               </Col>
               <Col md="6">
-                <Image src="asset/amt2.png" className="about-profile-pic" />
-                <h2> WE OFFER AND PROVIDE TECHNICAL SUPPORT ON</h2>
+                <Image src="asset/test.jpg" className="about-profile-pic" />
+                <h4> WE OFFER AND PROVIDE TECHNICAL SUPPORT ON</h4>
                 <ListGroup as="ul">
                   <ListGroup.Item as="li" active>
-                    Supply of Banking Automation
+                    Installing and using of software  
                   </ListGroup.Item>
                   <ListGroup.Item as="li" disabled>
-                    IT material and Solutions
-                  </ListGroup.Item>{" "}
-                  <ListGroup.Item as="li" disabled>
-                    Telecom and IT infrastructures
-                  </ListGroup.Item>{" "}
+                     updating testing and service providing on software 
+                  </ListGroup.Item>
+                  {" "}
                 </ListGroup>
               </Col>
             </Row>
