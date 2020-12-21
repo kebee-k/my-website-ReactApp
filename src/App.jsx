@@ -26,7 +26,6 @@ class App extends Component {
           <Route path="/service" component={Service} />
           <Route path="/product" component={Product} />
           <Route path="/mapsite" component={MapSite} />
-          <Footer />
           <Follow />
         </div>
       </Router>

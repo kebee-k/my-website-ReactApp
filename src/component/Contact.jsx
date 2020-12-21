@@ -51,6 +51,10 @@ const Contact  = () => {
                 </Form>
               </Col>
             </Row>
+            <h1>
+              <strong>Or</strong>
+              Here Contact via Email:-<br></br> <a href='https://mail.google.com/mail/u/1/'>kebkit3@gmail.com</a>
+            </h1>
           </Container>
         )
 }
