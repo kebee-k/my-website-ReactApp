@@ -34,6 +34,11 @@ export default class CustomNavbar extends Component {
             /mapSite">
               MapSite
             </Nav.Link>
+            <Nav.Link eventKey={2}
+              href="https://my-website-clicker.herokuapp.com/"
+            >
+              Blogs
+            </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
