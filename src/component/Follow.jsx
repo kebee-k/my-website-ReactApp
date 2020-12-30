@@ -28,25 +28,25 @@ export default class follow extends Component {
           <FontAwesomeIcon icon={faFacebook} size="2x" />
         </a>
         <a
-          href="https://www.instagram.com/learnbuildteach"
+          href="https://www.instagram.com/#"
           className="instagram social"
         >
           <FontAwesomeIcon icon={faInstagram} size="2x" />
         </a>
         <a
-          href="https://www.twitter.com/jamesqquick"
+          href="https://www.twitter.com/#"
           className="twitter social"
         >
           <FontAwesomeIcon icon={faTwitter} size="2x" />
         </a>
         <a
-          href="https://www.youtube.com/c/jamesqquick"
+          href="#"
           className="skype social"
         >
           <FontAwesomeIcon icon={faSkype} size="2x" />
         </a>
         <a
-          href="https://www.telegrma.com/c/jamesqquick"
+          href="https://www.telegrma.com/c/Kebe1k"
           className="telegram social"
         >
           <FontAwesomeIcon icon={faTelegram} size="2x" />

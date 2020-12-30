@@ -51,9 +51,12 @@ const Contact  = () => {
                 </Form>
               </Col>
             </Row>
+            <br></br>
             <h1>
               <strong>Or</strong>
-              Here Contact via Email:-<br></br> <a href='https://mail.google.com/mail/u/1/'>kebkit3@gmail.com</a>
+              Here Contact via Email:-<br></br> <a href='https://mail.google.com/mail/u/1/'>kebesoftware@gmail.com</a>
+              <br></br>
+              Call_us via-Mobile <a href='tel+:251938318340'>+251 9383 183 40</a>
             </h1>
           </Container>
         )
