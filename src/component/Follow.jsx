@@ -22,7 +22,7 @@ export default class follow extends Component {
           <FontAwesomeIcon icon={faYoutube} size="2x" />
         </a>
         <a
-          href="https://www.facebook.com/learnbuildteach/"
+          href="https://www.facebook.com/Computer-and-It-solution-software-101549121871563"
           className="facebook social"
         >
           <FontAwesomeIcon icon={faFacebook} size="2x" />
